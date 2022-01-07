@@ -3,9 +3,9 @@ Hi there, I'm Milan👦,
 A Full Stack Web developer🎯 and designer🌈 from Sydney.
 
 👨‍💻 Full Stack MERN Developer
-🎥 Learn Web Development from me @RoadsideCoder
+🎥 Learning React Native.
 📚 What do I believe? Jack of all, Master of some.
-📫 How to reach me: Instagram - @Piyush_eon or @RoadsideCoder
+📫 How to reach me: lindekin - https://www.linkedin.com/in/milan-adhikari-439394171/
 🎙 Freelance.
 
 Languages:
