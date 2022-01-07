@@ -7,9 +7,3 @@ A Full Stack Web developer🎯 and designer🌈 from Sydney.
 📚 What do I believe? Jack of all, Master of some.
 📫 How to reach me: lindekin - https://www.linkedin.com/in/milan-adhikari-439394171/
 🎙 Freelance.
-
-Languages:
-
-       
-
-Piyush's github stats Top Langs
